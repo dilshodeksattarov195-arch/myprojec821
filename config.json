@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypender",
+        "uuid": 3355427,
+        "checksum": "z15i3"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
